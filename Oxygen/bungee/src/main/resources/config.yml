@@ -1,0 +1,25 @@
+Mongo:
+  Host: 172.18.0.1
+  Port: 27017
+  Username: malibu
+  Password: malibu
+LocalRedis:
+  Host: 172.18.0.1
+  Port: 6379
+  Password: ""
+  DbId: 1
+BackboneRedis:
+  Host: 172.18.0.1
+  Port: 6379
+  Password: ""
+  DbId: 1
+TimeZone: "EST"
+ServerList:
+  ActiveMOTDState: "Release"
+  MOTDStates:
+    Staging:
+      MOTD: ""
+    Release:
+      MOTD: ""
+      Countdown: 1565463600000
+      CountdownFinishMOTD: ""

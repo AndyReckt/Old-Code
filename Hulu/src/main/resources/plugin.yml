@@ -1,0 +1,4 @@
+name: HulU
+version: 1.69-Revision
+main: net.hcriots.hcfactions.Hulu
+depend: [ Oxygen, ProtocolLib ]

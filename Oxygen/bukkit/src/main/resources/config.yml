@@ -1,0 +1,23 @@
+Mongo:
+  Host: "172.18.0.1"
+  Port: 27017
+LocalRedis:
+  Host: 172.18.0.1
+  Port: 6379
+  DbId: 2
+BackboneRedis:
+  Host: 172.18.0.1
+  Port: 6379
+  DbId: 1
+TimeZone: "EST"
+RebootTimes:
+  - 12
+disableTab: false
+coloredNamesTab: false
+allowNegativeBalances: false
+announcements:
+  - '&6&lDiscord &7%DOUBLE_ARROW% &fJoin our discord to get exclusive updates and giveaways! &e&ohttps://invite.gg/vyrix'
+  - '&6&lTwitter &7%DOUBLE_ARROW% &fFollow us on twitter to stay posted and receive exclusive giveaways! &e&ohttps://twitter.com/VyrixUS'
+  - '&6&lStore &7%DOUBLE_ARROW% &fPurchase exclusive perks and kits to show off! &e&ohttps://store.vyrix.us'
+  - '&6&lTeamSpeak &7%DOUBLE_ARROW% &fIf you ever need assistant, join our teamspeak for support! &e&ots.vyrix.us'
+  - '&6&lRecruiting &7%DOUBLE_ARROW% &fWe are always looking to expand our staff team! &e&ohttps://vyrix.us'

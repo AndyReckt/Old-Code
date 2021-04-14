@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mspigot-api/spigot-api.iml" filepath="$PROJECT_DIR$/mspigot-api/spigot-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mspigot-api/spigot-api (1) (net.hylist).iml" filepath="$PROJECT_DIR$/mspigot-api/spigot-api (1) (net.hylist).iml" />
+      <module fileurl="file://$PROJECT_DIR$/spigot-parent.iml" filepath="$PROJECT_DIR$/spigot-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mspigot-server/spigot-server.iml" filepath="$PROJECT_DIR$/mspigot-server/spigot-server.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,6 @@
+name: Oxygen
+version: ${git.commit.id.abbrev}-${git.branch}
+authors: [ Vyrix Development Team, ScoreBoardAPI ]
+main: cc.fyre.stark.Stark
+depend: [ ProtocolLib, Water ]
+load: STARTUP

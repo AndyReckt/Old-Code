@@ -1,0 +1,6 @@
+name: Oxygen
+version: ${git.commit.id.abbrev}-${git.branch}
+author: Vyrix Development Team, ScoreBoardAPI
+main: cc.fyre.stark.Stark
+depend:
+  - Water
